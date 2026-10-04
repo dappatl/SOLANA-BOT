@@ -1,0 +1,8 @@
+streamlit
+aiohttp
+httpx
+websockets
+python-dotenv
+solders
+solana
+base58
